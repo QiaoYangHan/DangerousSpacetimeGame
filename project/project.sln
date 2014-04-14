@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project", "project\project\project.csproj", "{84AF5EB5-B919-4563-89C6-24B5366953F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projectContent", "project\projectContent\projectContent.contentproj", "{FD47E5A7-6018-47EB-932B-E0F779D38F29}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9E744A80-9193-4495-83C8-6D79B916A0DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84AF5EB5-B919-4563-89C6-24B5366953F2}.Debug|x86.ActiveCfg = Debug|x86
+		{84AF5EB5-B919-4563-89C6-24B5366953F2}.Debug|x86.Build.0 = Debug|x86
+		{84AF5EB5-B919-4563-89C6-24B5366953F2}.Release|x86.ActiveCfg = Release|x86
+		{84AF5EB5-B919-4563-89C6-24B5366953F2}.Release|x86.Build.0 = Release|x86
+		{FD47E5A7-6018-47EB-932B-E0F779D38F29}.Debug|x86.ActiveCfg = Debug|x86
+		{FD47E5A7-6018-47EB-932B-E0F779D38F29}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
